@@ -1,4 +1,4 @@
-This is a collection of my Microprocessor Systems Project completed in first year of Computer Science at TU Dublin.
+This is a collection of my Microprocessor Systems projects completed in the first year of Computer Science at TU Dublin.
 
 Project 1 (Traffic Light Demonstration) - Grade Received: 100%
 
