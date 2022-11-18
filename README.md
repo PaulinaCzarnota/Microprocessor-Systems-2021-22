@@ -1,4 +1,4 @@
-This is a collection of my Microprocessor Systems Project completed in first year of second semester at TU856.
+This is a collection of my Microprocessor Systems Project completed in first year of TU856.
 
 Project 1 (Traffic Light Demonstration) - Grade Received: 100%
 
