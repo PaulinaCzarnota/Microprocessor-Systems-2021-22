@@ -1,6 +1,6 @@
 This repository contains a collection of projects completed for the Microprocessor Systems module during my first year of Computer Science at TU Dublin. Each project demonstrates various aspects of low-level programming, embedded systems, and hardware interfacing, showcasing the progression of my skills in assembly language and microprocessor concepts.
 
-## Projects Overview
+# Projects Overview
 
 - **Project 1: Traffic Light Demonstration**  
   *Grade Received: 100%*  
